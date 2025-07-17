@@ -32,11 +32,9 @@ Les travaux de Raphael Constantinis révèlent une dimension inédite : "un phé
 
 Le confucianisme enseigne la recherche constante d'harmonie entre le Ciel (*tian*), la Terre et l'Humanité [23]. Cette vision implique que l'existence épanouie nécessite un équilibre dynamique entre les dimensions spirituelles, matérielles et sociales [23]. L'idéal confucéen de rectitude (*zhengyi*) et de bienveillance (*ren*) guide cette recherche d'harmonie [10].
 
-<p align="center">
-<img src="/Users/raphael/Library/CloudStorage/ProtonDrive-waverever@pm.me-folder/ERA/RIGHTS/exported-assets/droit_existence_diagram.png" alt="droit_existence_diagram" width="6400"></br>
-Diagramme conceptuel des fondements philosophiques convergents pour une nouvelle déclaration du droit à l'existence
-</p>
 
+![Diagramme conceptuel des fondements philosophiques convergents pour une nouvelle déclaration du droit à l'existence](exported-assets/droit_existence_diagram.png)
+Diagramme conceptuel des fondements philosophiques convergents pour une nouvelle déclaration du droit à l'existence
 
 
 ## Fondements Ontologiques Universels
@@ -219,12 +217,8 @@ Le processus doit inclure toutes les communautés, y compris les plus marginalis
 La rédaction doit être véritablement collaborative, respectant la diversité des expressions culturelles tout en cherchant les convergences profondes [10]. Chaque article doit pouvoir être reconnu par toutes les traditions tout en préservant leur spécificité [9].
 
 
-<p align="center">
-<img src="/Users/raphael/Library/CloudStorage/ProtonDrive-waverever@pm.me-folder/ERA/RIGHTS/exported-assets/declaration_droit_existence_flowchart.png" alt="droit_existence_diagram" width="6400">
+![Processus de mise en oeuvre d'une nouvelle déclaration universelle du droit à l'existence](exported-assets/declaration_droit_existence_flowchart.png)
 Processus de mise en oeuvre d'une nouvelle déclaration universelle du droit à l'existence
-</p>
-
-
 
 ### Adoption par Consensus
 
